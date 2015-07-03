@@ -8,6 +8,8 @@ I was playing around with coreutils in fedora 22 (the source RPM). But hey! it w
 works.
 The total progress is not calculated, just for each file.
 
+I used coreutils version 8.23
+
 ## How to
 
 I'll describe it for fedora 22, but if you got your hands on on coreutils source and found the 
