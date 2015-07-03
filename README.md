@@ -26,7 +26,7 @@ file `copy.c` then it's very likely you'll be able to do it youself. just find t
 - replace the files in $EXTRACTION_PATH/src/ with files in this repo.
 - or simply add the necessary code to the file copy.c, comparing with file in this repo.
 - run `./configure && make` in $EXTRACTION_PATH
-- ~~replace or~~ move the compiled cp command and it's necessary files to ~/.local/bin. **Under NO Circumstance** do replace the system cp with this one.
+- ~~replace or~~ move the compiled cp command and it's necessary files to ~/.local/bin. **Under NO Circumstance** replace the system cp with this one.
 - make sure ~/.local/bin is looked for executables before /usr/bin.
 
 ## Test
