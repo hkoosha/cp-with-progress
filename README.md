@@ -8,7 +8,12 @@ I was playing around with coreutils in fedora 22 (the source RPM). But hey! it w
 works.
 The total progress is not calculated, just for each file.
 
-I used coreutils version 8.23
+I used coreutils version 8.23.
+
+# What about existing tools?
+
+- Are you aware of `rsync`?
+-> I most certainly am.
 
 ## How to
 
